@@ -6,13 +6,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/vgrashal16/DSA-Python/tree/master/0940-fruit-into-baskets) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vgrashal16/DSA-Python/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/vgrashal16/DSA-Python/tree/master/0940-fruit-into-baskets) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vgrashal16/DSA-Python/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/vgrashal16/DSA-Python/tree/master/0940-fruit-into-baskets) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vgrashal16/DSA-Python/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
