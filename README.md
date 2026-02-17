@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vgrashal16/DSA-Python/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/vgrashal16/DSA-Python/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vgrashal16/DSA-Python/tree/master/0016-3sum-closest) |
+| [0713-subarray-product-less-than-k](https://github.com/vgrashal16/DSA-Python/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/vgrashal16/DSA-Python/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/vgrashal16/DSA-Python/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/vgrashal16/DSA-Python/tree/master/1046-max-consecutive-ones-iii) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/vgrashal16/DSA-Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vgrashal16/DSA-Python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/vgrashal16/DSA-Python/tree/master/0567-permutation-in-string) |
+| [0713-subarray-product-less-than-k](https://github.com/vgrashal16/DSA-Python/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/vgrashal16/DSA-Python/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/vgrashal16/DSA-Python/tree/master/1046-max-consecutive-ones-iii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vgrashal16/DSA-Python/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -46,10 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/vgrashal16/DSA-Python/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/vgrashal16/DSA-Python/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/vgrashal16/DSA-Python/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/vgrashal16/DSA-Python/tree/master/1046-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
