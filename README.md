@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vgrashal16/DSA-Python/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/vgrashal16/DSA-Python/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vgrashal16/DSA-Python/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/vgrashal16/DSA-Python/tree/master/0075-sort-colors) |
 | [0713-subarray-product-less-than-k](https://github.com/vgrashal16/DSA-Python/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/vgrashal16/DSA-Python/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/vgrashal16/DSA-Python/tree/master/1019-squares-of-a-sorted-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/vgrashal16/DSA-Python/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vgrashal16/DSA-Python/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/vgrashal16/DSA-Python/tree/master/0075-sort-colors) |
 | [0567-permutation-in-string](https://github.com/vgrashal16/DSA-Python/tree/master/0567-permutation-in-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/vgrashal16/DSA-Python/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
@@ -67,5 +69,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/vgrashal16/DSA-Python/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vgrashal16/DSA-Python/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/vgrashal16/DSA-Python/tree/master/0075-sort-colors) |
 | [1019-squares-of-a-sorted-array](https://github.com/vgrashal16/DSA-Python/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
