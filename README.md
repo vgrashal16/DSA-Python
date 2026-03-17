@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vgrashal16/DSA-Python/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/vgrashal16/DSA-Python/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vgrashal16/DSA-Python/tree/master/0283-move-zeroes) |
+| [0416-partition-equal-subset-sum](https://github.com/vgrashal16/DSA-Python/tree/master/0416-partition-equal-subset-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/vgrashal16/DSA-Python/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/vgrashal16/DSA-Python/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/vgrashal16/DSA-Python/tree/master/1019-squares-of-a-sorted-array) |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/vgrashal16/DSA-Python/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/vgrashal16/DSA-Python/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
