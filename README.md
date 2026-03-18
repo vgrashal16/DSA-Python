@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vgrashal16/DSA-Python/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vgrashal16/DSA-Python/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/vgrashal16/DSA-Python/tree/master/0416-partition-equal-subset-sum) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/vgrashal16/DSA-Python/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/vgrashal16/DSA-Python/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/vgrashal16/DSA-Python/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/vgrashal16/DSA-Python/tree/master/1019-squares-of-a-sorted-array) |
@@ -87,8 +88,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/vgrashal16/DSA-Python/tree/master/0268-missing-number) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/vgrashal16/DSA-Python/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/vgrashal16/DSA-Python/tree/master/0416-partition-equal-subset-sum) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/vgrashal16/DSA-Python/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Backtracking
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/vgrashal16/DSA-Python/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Memoization
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/vgrashal16/DSA-Python/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/vgrashal16/DSA-Python/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
