@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vgrashal16/DSA-Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vgrashal16/DSA-Python/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0125-valid-palindrome](https://github.com/vgrashal16/DSA-Python/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/vgrashal16/DSA-Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vgrashal16/DSA-Python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/vgrashal16/DSA-Python/tree/master/0567-permutation-in-string) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vgrashal16/DSA-Python/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vgrashal16/DSA-Python/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/vgrashal16/DSA-Python/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/vgrashal16/DSA-Python/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/vgrashal16/DSA-Python/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/vgrashal16/DSA-Python/tree/master/0567-permutation-in-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/vgrashal16/DSA-Python/tree/master/1019-squares-of-a-sorted-array) |
