@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vgrashal16/DSA-Python/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vgrashal16/DSA-Python/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/vgrashal16/DSA-Python/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vgrashal16/DSA-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/vgrashal16/DSA-Python/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vgrashal16/DSA-Python/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/vgrashal16/DSA-Python/tree/master/0416-partition-equal-subset-sum) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vgrashal16/DSA-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0416-partition-equal-subset-sum](https://github.com/vgrashal16/DSA-Python/tree/master/0416-partition-equal-subset-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vgrashal16/DSA-Python/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Backtracking
