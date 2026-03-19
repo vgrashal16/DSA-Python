@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/vgrashal16/DSA-Python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/vgrashal16/DSA-Python/tree/master/0567-permutation-in-string) |
 | [1894-merge-strings-alternately](https://github.com/vgrashal16/DSA-Python/tree/master/1894-merge-strings-alternately) |
+| [2032-largest-odd-number-in-string](https://github.com/vgrashal16/DSA-Python/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/vgrashal16/DSA-Python/tree/master/0268-missing-number) |
+| [2032-largest-odd-number-in-string](https://github.com/vgrashal16/DSA-Python/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vgrashal16/DSA-Python/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/vgrashal16/DSA-Python/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
