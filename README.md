@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/vgrashal16/DSA-Python/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/vgrashal16/DSA-Python/tree/master/1046-max-consecutive-ones-iii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/vgrashal16/DSA-Python/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/vgrashal16/DSA-Python/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vgrashal16/DSA-Python/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/vgrashal16/DSA-Python/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/vgrashal16/DSA-Python/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/vgrashal16/DSA-Python/tree/master/1046-max-consecutive-ones-iii) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/vgrashal16/DSA-Python/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vgrashal16/DSA-Python/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
