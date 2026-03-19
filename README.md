@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/vgrashal16/DSA-Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vgrashal16/DSA-Python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/vgrashal16/DSA-Python/tree/master/0567-permutation-in-string) |
+| [1894-merge-strings-alternately](https://github.com/vgrashal16/DSA-Python/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vgrashal16/DSA-Python/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/vgrashal16/DSA-Python/tree/master/0567-permutation-in-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/vgrashal16/DSA-Python/tree/master/1019-squares-of-a-sorted-array) |
+| [1894-merge-strings-alternately](https://github.com/vgrashal16/DSA-Python/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
