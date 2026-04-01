@@ -133,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vgrashal16/DSA-Python/tree/master/0042-trapping-rain-water) |
+## Database
+|  |
+| ------- |
+| [1317-monthly-transactions-i](https://github.com/vgrashal16/DSA-Python/tree/master/1317-monthly-transactions-i) |
 <!---LeetCode Topics End-->
